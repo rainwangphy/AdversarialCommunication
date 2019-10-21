@@ -1,9 +1,9 @@
 # AdversarialCommunication
 
 ### Target methods:
-CommNet
-IC3Net
-ScheNet
+CommNet,
+IC3Net,
+ScheNet.
 
 ### Baselines: 
 MADDPG
